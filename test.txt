@@ -1,2 +1,1 @@
-week1 cua thang week1
-file test cua thang main ma thoi
+week1 cua thang week1 va main
